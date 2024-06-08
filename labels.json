@@ -1,0 +1,223 @@
+{
+    "info": {
+        "description": null,
+        "url": null,
+        "version": null,
+        "year": 2024,
+        "contributor": null,
+        "date_created": "2024-06-01 11:18:20.848360"
+    },
+    "licenses": [{
+            "url": null,
+            "id": 0,
+            "name": null
+        }
+    ],
+    "images": [{
+            "license": 0,
+            "url": null,
+            "file_name": "beaker.jpg",
+            "height": 478,
+            "width": 478,
+            "date_captured": null,
+            "id": 0
+        }, {
+            "license": 0,
+            "url": null,
+            "file_name": "goggle.jpg",
+            "height": 478,
+            "width": 478,
+            "date_captured": null,
+            "id": 1
+        }, {
+            "license": 0,
+            "url": null,
+            "file_name": "hammer.jpg",
+            "height": 478,
+            "width": 478,
+            "date_captured": null,
+            "id": 2
+        }, {
+            "license": 0,
+            "url": null,
+            "file_name": "kapton_tape.jpg",
+            "height": 478,
+            "width": 478,
+            "date_captured": null,
+            "id": 3
+        }, {
+            "license": 0,
+            "url": null,
+            "file_name": "pipette.jpg",
+            "height": 478,
+            "width": 478,
+            "date_captured": null,
+            "id": 4
+        }, {
+            "license": 0,
+            "url": null,
+            "file_name": "screwdriver.jpg",
+            "height": 478,
+            "width": 478,
+            "date_captured": null,
+            "id": 5
+        }, {
+            "license": 0,
+            "url": null,
+            "file_name": "thermometer.jpg",
+            "height": 478,
+            "width": 478,
+            "date_captured": null,
+            "id": 6
+        }, {
+            "license": 0,
+            "url": null,
+            "file_name": "top.jpg",
+            "height": 478,
+            "width": 478,
+            "date_captured": null,
+            "id": 7
+        }, {
+            "license": 0,
+            "url": null,
+            "file_name": "watch.jpg",
+            "height": 478,
+            "width": 478,
+            "date_captured": null,
+            "id": 8
+        }, {
+            "license": 0,
+            "url": null,
+            "file_name": "wrench.jpg",
+            "height": 478,
+            "width": 478,
+            "date_captured": null,
+            "id": 9
+        }
+    ],
+    "type": "instances",
+    "annotations": [{
+            "id": 0,
+            "image_id": 0,
+            "category_id": 1,
+            "segmentation": [[87.18652849740931, 76.82383419689118, 391.8497409326425, 76.82383419689118, 391.8497409326425, 403.24870466321244, 87.18652849740931, 403.24870466321244]],
+            "area": 100040.0,
+            "bbox": [87.0, 76.0, 305.0, 328.0],
+            "iscrowd": 0
+        }, {
+            "id": 1,
+            "image_id": 1,
+            "category_id": 2,
+            "segmentation": [[70.60621761658032, 164.90673575129532, 408.43005181347144, 164.90673575129532, 408.43005181347144, 315.1658031088083, 70.60621761658032, 315.1658031088083]],
+            "area": 51528.0,
+            "bbox": [70.0, 164.0, 339.0, 152.0],
+            "iscrowd": 0
+        }, {
+            "id": 2,
+            "image_id": 2,
+            "category_id": 3,
+            "segmentation": [[32.2642487046632, 51.435233160621756, 445.73575129533674, 51.435233160621756, 445.73575129533674, 427.08290155440415, 32.2642487046632, 427.08290155440415]],
+            "area": 156078.0,
+            "bbox": [32.0, 51.0, 414.0, 377.0],
+            "iscrowd": 0
+        }, {
+            "id": 3,
+            "image_id": 3,
+            "category_id": 4,
+            "segmentation": [[52.98963730569949, 104.80310880829015, 430.19170984455957, 104.80310880829015, 430.19170984455957, 373.1968911917098, 52.98963730569949, 373.1968911917098]],
+            "area": 102330.0,
+            "bbox": [52.0, 104.0, 379.0, 270.0],
+            "iscrowd": 0
+        }, {
+            "id": 4,
+            "image_id": 4,
+            "category_id": 5,
+            "segmentation": [[86.15025906735752, 86.1502590673575, 392.36787564766837, 86.1502590673575, 392.36787564766837, 392.8860103626943, 86.15025906735752, 392.8860103626943]],
+            "area": 94249.0,
+            "bbox": [86.0, 86.0, 307.0, 307.0],
+            "iscrowd": 0
+        }, {
+            "id": 5,
+            "image_id": 5,
+            "category_id": 6,
+            "segmentation": [[63.352331606217604, 63.35233160621761, 414.6476683937824, 63.35233160621761, 414.6476683937824, 414.6476683937824, 63.352331606217604, 414.6476683937824]],
+            "area": 123904.0,
+            "bbox": [63.0, 63.0, 352.0, 352.0],
+            "iscrowd": 0
+        }, {
+            "id": 6,
+            "image_id": 6,
+            "category_id": 7,
+            "segmentation": [[169.56994818652848, 45.73575129533678, 308.94818652849744, 45.73575129533678, 308.94818652849744, 432.2642487046632, 169.56994818652848, 432.2642487046632]],
+            "area": 54320.0,
+            "bbox": [169.0, 45.0, 140.0, 388.0],
+            "iscrowd": 0
+        }, {
+            "id": 7,
+            "image_id": 7,
+            "category_id": 8,
+            "segmentation": [[87.18652849740931, 32.78238341968911, 389.2590673575129, 32.78238341968911, 389.2590673575129, 446.2538860103627, 87.18652849740931, 446.2538860103627]],
+            "area": 125745.0,
+            "bbox": [87.0, 32.0, 303.0, 415.0],
+            "iscrowd": 0
+        }, {
+            "id": 8,
+            "image_id": 8,
+            "category_id": 9,
+            "segmentation": [[142.62694300518135, 64.90673575129533, 354.0259067357513, 64.90673575129533, 354.0259067357513, 413.61139896373055, 142.62694300518135, 413.61139896373055]],
+            "area": 74550.0,
+            "bbox": [142.0, 64.0, 213.0, 350.0],
+            "iscrowd": 0
+        }, {
+            "id": 9,
+            "image_id": 9,
+            "category_id": 10,
+            "segmentation": [[61.279792746114, 61.27979274611398, 417.23834196891187, 61.27979274611398, 417.23834196891187, 417.2383419689119, 61.279792746114, 417.2383419689119]],
+            "area": 127449.0,
+            "bbox": [61.0, 61.0, 357.0, 357.0],
+            "iscrowd": 0
+        }
+    ],
+    "categories": [{
+            "supercategory": null,
+            "id": 1,
+            "name": "beaker"
+        }, {
+            "supercategory": null,
+            "id": 2,
+            "name": "goggle"
+        }, {
+            "supercategory": null,
+            "id": 3,
+            "name": "hammer"
+        }, {
+            "supercategory": null,
+            "id": 4,
+            "name": "kapton_tape"
+        }, {
+            "supercategory": null,
+            "id": 5,
+            "name": "pipette"
+        }, {
+            "supercategory": null,
+            "id": 6,
+            "name": "screwdriver"
+        }, {
+            "supercategory": null,
+            "id": 7,
+            "name": "thermometer"
+        }, {
+            "supercategory": null,
+            "id": 8,
+            "name": "top"
+        }, {
+            "supercategory": null,
+            "id": 9,
+            "name": "watch"
+        }, {
+            "supercategory": null,
+            "id": 10,
+            "name": "wrench"
+        }
+    ]
+}
